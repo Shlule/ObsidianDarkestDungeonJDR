@@ -1,0 +1,10 @@
+### Saignement
+-   ![bleed token status effect darkest dungeon 2 wiki guide 20px](https://darkestdungeon2.wiki.fextralife.com/file/Darkest-Dungeon-2/bleed-token-status-effect-darkest-dungeon-2-wiki-guide-20px.png "Bleed") Bleed (BLD):  Le status de saignement  infilige des degât au cours du temps . au debut de son tours le joueur subis un montant de degat egal au numerot du status. a la fin de son son tour le joueur diminue le status de 1 quand le status et egal  à 0 le joueur ne subit plus de degat  à la fin de son tour.  
+-example le joueur possede un status saignement egal a 3 , au deburt de son tour il subira 3 point de dgât et a la fin de son tour il reduit le status a 2 donc a son prochain il subire seulement 2 point de degât
+
+### Poison
+-   ![blight token status effect darkest dungeon 2 wiki guide 20px](https://darkestdungeon2.wiki.fextralife.com/file/Darkest-Dungeon-2/blight-token-status-effect-darkest-dungeon-2-wiki-guide-20px.png "Blight") Poison (PSN): Le status de empoissonement  infilige des degât au cours du temps . au debut de son tours le joueur subis un montant de degat egal au numerot du status. a la fin de son son tour le joueur diminue le status de 1 quand le status et egal  à 0 le joueur ne subit plus de degat  à la fin de son tour.  
+-example le joueur possede un status empoisenement egal a 3 , au deburt de son tour il subira 3 point de dgât et a la fin de son tour il reduit le status a 2 donc a son prochain il subire seulement 2 point de degât
+
+### Brulure
+-   ![burn token status effect darkest dungeon 2 wiki guide 20px](https://darkestdungeon2.wiki.fextralife.com/file/Darkest-Dungeon-2/burn-token-status-effect-darkest-dungeon-2-wiki-guide-20px.png "Burn") Burn (BURN): Le status de brulures est represente par un chiffre indiquant le nombre de degât que le joueur subira au debut de son tour pendant 3 tours 
